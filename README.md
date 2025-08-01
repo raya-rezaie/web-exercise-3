@@ -3,27 +3,29 @@
 در این تمرین تحت معماری rest api یک backend برای تمرین قبل تحت ساختار زیر ساخته‌ایم که در ادامه به توضیح آن می‌پردازیم.
 
 
+<details> <summary>📁 Click to expand project structure</summary>
 paint-app/
-├── paint-backend/
-│ ├── src/
-│ │ └── main/
-│ │ ├── java/
-│ │ │ └── com/
-│ │ │ └── example/
-│ │ │ └── paintapp/
-│ │ │ ├── controller/
-│ │ │ │ ├── PaintingController.java
-│ │ │ │ └── UserController.java
-│ │ │ ├── model/
-│ │ │ │ ├── Painting.java
-│ │ │ │ └── User.java
-│ │ │ ├── repository/
-│ │ │ │ ├── PaintingRepository.java
-│ │ │ │ └── UserRepository.java
-│ │ │ └── PaintAppApplication.java
-│ │ └── resources/
-│ │ └── application.properties
-│ └── pom.xmll
+└── paint-backend/
+    ├── src/
+    │   └── main/
+    │       ├── java/
+    │       │   └── com/
+    │       │       └── example/
+    │       │           └── paintapp/
+    │       │               ├── controller/
+    │       │               │   ├── PaintingController.java
+    │       │               │   └── UserController.java
+    │       │               ├── model/
+    │       │               │   ├── Painting.java
+    │       │               │   └── User.java
+    │       │               ├── repository/
+    │       │               │   ├── PaintingRepository.java
+    │       │               │   └── UserRepository.java
+    │       │               └── PaintAppApplication.java
+    │       └── resources/
+    │           └── application.properties
+    └── pom.xml
+</details>
 
 
 
