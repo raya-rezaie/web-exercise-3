@@ -5,25 +5,25 @@
 
 paint-app/
 ├── paint-backend/
-    ├── src/
-    │   └── main/
-    │       ├── java/
-    │       │   └── com/
-    │       │       └── example/
-    │       │           └── paintapp/
-    │       │               ├── controller/
-    │       │               │   ├── PaintingController.java
-    │       │               │   └── UserController.java
-    │       │               ├── model/
-    │       │               │   ├── Painting.java
-    │       │               │   └── User.java
-    │       │               ├── repository/
-    │       │               │   ├── PaintingRepository.java
-    │       │               │   └── UserRepository.java
-    │       │               └── PaintAppApplication.java
-    │       └── resources/
-    │           └── application.properties
-    └── pom.xml
+│ ├── src/
+│ │ └── main/
+│ │ ├── java/
+│ │ │ └── com/
+│ │ │ └── example/
+│ │ │ └── paintapp/
+│ │ │ ├── controller/
+│ │ │ │ ├── PaintingController.java
+│ │ │ │ └── UserController.java
+│ │ │ ├── model/
+│ │ │ │ ├── Painting.java
+│ │ │ │ └── User.java
+│ │ │ ├── repository/
+│ │ │ │ ├── PaintingRepository.java
+│ │ │ │ └── UserRepository.java
+│ │ │ └── PaintAppApplication.java
+│ │ └── resources/
+│ │ └── application.properties
+│ └── pom.xmll
 
 
 
