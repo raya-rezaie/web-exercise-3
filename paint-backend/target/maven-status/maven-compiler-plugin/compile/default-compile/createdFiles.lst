@@ -1,0 +1,11 @@
+com\example\paintapp\config\DataInitializer.class
+com\example\paintapp\controller\UserController.class
+com\example\paintapp\model\Painting.class
+com\example\paintapp\repository\PaintingRepository.class
+com\paintingapp\config\WebConfig$1.class
+com\example\paintapp\controller\PaintingController.class
+com\example\paintapp\PaintingAppBackendApplication.class
+com\example\paintapp\repository\UserRepository.class
+com\example\paintapp\model\User.class
+com\example\paintapp\controller\PaintingController$PaintingRequest.class
+com\paintingapp\config\WebConfig.class
