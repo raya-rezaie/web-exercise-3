@@ -175,6 +175,7 @@ export default function App() {
             onChange={(e) => {
               const user = users.find(u => u.id == e.target.value);
               if (user) setSelectedUser(user);
+              setShapes([]); 
             }}
             disabled={!users.length}
             style={styles.userSelect}
