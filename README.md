@@ -25,6 +25,7 @@ paint-app/
     │       └── resources/
     │           └── application.properties
     └── pom.xml
+```
 
 
 
