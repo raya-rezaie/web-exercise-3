@@ -3,8 +3,8 @@
 در این تمرین تحت معماری rest api یک backend برای تمرین قبل تحت ساختار زیر ساخته‌ایم که در ادامه به توضیح آن می‌پردازیم.
 
 
-<details> <summary>📁 Click to expand project structure</summary>
-```paint-app/
+```plaintext
+paint-app/
 └── paint-backend/
     ├── src/
     │   └── main/
@@ -24,8 +24,7 @@
     │       │               └── PaintAppApplication.java
     │       └── resources/
     │           └── application.properties
-    └── pom.xml```
-</details>
+    └── pom.xml
 
 
 
