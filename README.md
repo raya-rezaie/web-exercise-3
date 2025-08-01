@@ -4,7 +4,7 @@
 
 
 <details> <summary>📁 Click to expand project structure</summary>
-paint-app/
+```paint-app/
 └── paint-backend/
     ├── src/
     │   └── main/
@@ -24,7 +24,7 @@ paint-app/
     │       │               └── PaintAppApplication.java
     │       └── resources/
     │           └── application.properties
-    └── pom.xml
+    └── pom.xml```
 </details>
 
 
