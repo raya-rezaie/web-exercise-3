@@ -1,10 +1,10 @@
-#web-exercise=3
+#web-exercise-3
 
 در این تمرین تحت معماری rest api یک backend برای تمرین قبل تحت ساختار زیر ساخته‌ایم که در ادامه به توضیح آن می‌پردازیم.
 
 
 ```plaintext
-paint-app/
+app/
 └── paint-backend/
     ├── src/
     │   └── main/
